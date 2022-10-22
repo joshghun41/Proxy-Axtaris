@@ -15,8 +15,8 @@
                 <ImageBrush ImageSource="C:\Users\Help\source\repos\Proxy-Axtaris\Proxy-Axtaris\txt\Images\computer-icons-search-box-desktop-wallpaper-png-favpng-dYyK4e06zzaa2kaBbwaCvVsvw.jpg"/>
             </Button.Background>
         </Button>
-        <TextBox Name="textbox" HorizontalAlignment="Left" Margin="134,0,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Center" Width="285" TextChanged="textchanged" Height="39" Foreground="#FFF1FAFF" Background="#FFF1F3F4" BorderBrush="{x:Null}" />
-        <ListBox Name="listbox1"  Margin="134,279,181,24" RenderTransformOrigin="0.5,0.5" >
+        <TextBox Name="textbox" HorizontalAlignment="Left" Margin="134,0,0,0" TextWrapping="Wrap"  VerticalAlignment="Center" Width="285" TextChanged="textchanged" Height="39" Foreground="Black" Background="#FFF1F3F4"  SelectionBrush="{x:Null}" BorderBrush="{x:Null}" />
+        <ListBox Name="listbox1"  Margin="134,279,181,24" RenderTransformOrigin="0.5,0.5" BorderBrush="{x:Null}" >
 
         </ListBox>
 
